@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00052.txt">
+  <feature name="about" authors="Ritchie, James Ewing" title="East Anglia Personal Recollections and Historical Associations" lang="en" />
+  <feature name="md5Hash" value="fa9d19142e3bada27d3ab8922577a9af" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="7915" this_length="2986" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="275822" this_length="16633" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="410581" this_length="511" />
+</document>
+

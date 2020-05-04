@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00024.txt">
+  <feature name="about" authors="Velimirović, Nikolai" title="The Agony of the Church (1917)" lang="en" />
+  <feature name="md5Hash" value="485449d359fba4bb261c75920631064c" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6378" this_length="513" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="22980" this_length="779" />
+</document>
+

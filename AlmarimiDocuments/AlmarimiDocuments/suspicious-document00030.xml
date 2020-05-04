@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00048.txt">
+  <feature name="about" authors="Holmes, Prescott" title="Young Peoples' History of the War with Spain" lang="en" />
+  <feature name="md5Hash" value="947232174122d46a7fca32e8d6cfdf16" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="32225" this_length="3782" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="95695" this_length="3783" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="165561" this_length="501" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="172861" this_length="476" />
+</document>
+

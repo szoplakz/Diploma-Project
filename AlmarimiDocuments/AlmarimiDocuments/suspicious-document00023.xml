@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00017.txt">
+  <feature name="about" authors="Slattery, Margaret" title="The Girl and Her Religion" lang="en" />
+  <feature name="md5Hash" value="87fb9c7b2c53c75b76ad52a7d1f0d0c0" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="80746" this_length="4755" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="98372" this_length="752" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="127769" this_length="1414" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="143977" this_length="2469" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="196673" this_length="766" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="209343" this_length="722" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="223230" this_length="255" />
+</document>
+

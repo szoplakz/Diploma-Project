@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00037.txt">
+  <feature name="about" authors="Green, Anna Katharine" title="The House of the Whispering Pines" lang="en" />
+  <feature name="md5Hash" value="4cc6f9dbb8c6382e0537d12488dbc59a" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="19074" this_length="2695" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="46677" this_length="18980" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="184224" this_length="729" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="191747" this_length="3496" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="327655" this_length="19661" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="387338" this_length="2003" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="399926" this_length="4240" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="441311" this_length="3739" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="470814" this_length="4928" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="509917" this_length="1703" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="515512" this_length="268" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="538108" this_length="3695" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="560906" this_length="3950" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="594959" this_length="2220" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="602793" this_length="672" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="606897" this_length="276" />
+</document>
+

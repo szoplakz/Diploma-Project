@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00460.txt">
+  <feature name="about" authors="Barrie, James Matthew" title="Sentimental Tommy The Story of His Boyhood" lang="en" />
+  <feature name="md5Hash" value="20919d417433eeb32c09a31dfff9304d" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="17720" this_length="1615" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="549917" this_length="22265" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="605677" this_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="609840" this_length="260" />
+</document>
+

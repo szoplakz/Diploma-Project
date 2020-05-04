@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03487.txt">
+  <feature name="about" authors="Hartley, John" title="Yorksher Puddin' A Collection of the Most Popular Dialect Stories from the Pen of John Hartley" lang="en" />
+  <feature name="md5Hash" value="97cabf68e333ea9e35e821a4ff594209" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="2764" this_length="3799" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="84718" this_length="20017" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="160245" this_length="20309" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="282009" this_length="18484" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="310820" this_length="2765" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="321803" this_length="2523" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="340534" this_length="15245" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="413941" this_length="15508" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="482437" this_length="761" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="487713" this_length="3817" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="504111" this_length="1880" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="514583" this_length="4910" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="536133" this_length="256" />
+</document>
+

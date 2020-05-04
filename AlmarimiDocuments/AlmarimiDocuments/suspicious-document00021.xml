@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00032.txt">
+  <feature name="about" authors="Kingston, William Henry Giles" title="The Young Llanero A Story of War and Wild Life in Venezuela" lang="en" />
+  <feature name="md5Hash" value="5a89a082383f5f205dde5dcaeab2ae61" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="15063" this_length="2325" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="35846" this_length="1995" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="208996" this_length="22780" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="309573" this_length="769" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="316296" this_length="495" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="350821" this_length="3722" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="394644" this_length="3513" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="409957" this_length="2013" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="428177" this_length="3894" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="477055" this_length="1521" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="483437" this_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="486375" this_length="231" />
+</document>
+

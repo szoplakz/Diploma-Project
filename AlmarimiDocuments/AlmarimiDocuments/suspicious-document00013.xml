@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00014.txt">
+  <feature name="about" authors="Balzac, Honoré de" title="Louis Lambert" lang="en" />
+  <feature name="md5Hash" value="b7fc390d31e5ee06fd454c8c622936a6" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6973" this_length="2489" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="59997" this_length="23927" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="167100" this_length="17929" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="191460" this_length="2509" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="200500" this_length="3469" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="216160" this_length="1868" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="221025" this_length="1666" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="227493" this_length="300" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="229040" this_length="575" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="231414" this_length="774" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03854.txt">
+  <feature name="about" authors="Mitchell, Thomas" title="Three Expeditions into the Interior of Eastern Australia, Volume 2" lang="en" />
+  <feature name="md5Hash" value="d796ac221108a466d898d23d599eb0d2" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="315371" this_length="20889" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="531157" this_length="3563" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="608103" this_length="4043" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="694175" this_length="4256" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="731473" this_length="1630" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="755242" this_length="506" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="765188" this_length="264" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="768984" this_length="247" />
+</document>
+

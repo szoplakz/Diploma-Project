@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00022.txt">
+  <feature name="about" authors="De Quincey, Thomas" title="The Uncollected Writings of Thomas de Quincey, Vol. 2 With a Preface and Annotations by James Hogg" lang="en" />
+  <feature name="md5Hash" value="bbc3792dc85ba40512ed13a2edc77336" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="3338" this_length="2337" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="37067" this_length="20930" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="147911" this_length="15723" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="241370" this_length="17491" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="277312" this_length="3980" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="286025" this_length="2737" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="302233" this_length="3275" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="312995" this_length="2683" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="334489" this_length="4310" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="343617" this_length="1453" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="353946" this_length="1998" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="362351" this_length="1983" />
+</document>
+

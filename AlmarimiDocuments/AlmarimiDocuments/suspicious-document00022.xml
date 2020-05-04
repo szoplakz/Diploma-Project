@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00033.txt">
+  <feature name="about" authors="Biddulph, John" title="The Pirates of Malabar, and an Englishwoman in India Two Hundred Years Ago" lang="en" />
+  <feature name="md5Hash" value="39bcb5f45c028e2f4fac21bd019d16ef" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="36962" this_length="4195" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="170703" this_length="4845" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="220985" this_length="3811" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="317609" this_length="3037" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="355416" this_length="1653" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="382752" this_length="2213" />
+</document>
+

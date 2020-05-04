@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00015.txt">
+  <feature name="about" authors="Greenwood, Grace" title="Stories of Many Lands" lang="en" />
+  <feature name="md5Hash" value="fe0b7438517d48f8f4a29fe3bb4d773b" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4493" this_length="521" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="20765" this_length="1727" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="99078" this_length="2166" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="123864" this_length="1763" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="154943" this_length="3018" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="221699" this_length="461" />
+</document>
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00027.txt">
+  <feature name="about" authors="Green, John Richard" title="History of the English People, Volume VI Puritan England, 1642-1660; The Revolution, 1660-1683" lang="en" />
+  <feature name="md5Hash" value="178fae16b1d50c9cec9e6325e22b62d9" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="53663" this_length="15601" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="110667" this_length="5009" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="158185" this_length="23904" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="336683" this_length="17642" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="442603" this_length="2290" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="446670" this_length="738" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="450474" this_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="454520" this_length="509" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="456522" this_length="245" />
+</document>
+

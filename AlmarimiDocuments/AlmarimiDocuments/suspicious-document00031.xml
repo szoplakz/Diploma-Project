@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00050.txt">
+  <feature name="about" authors="Bayliss, Clara Kern" title="A Treasury of Eskimo Tales" lang="en" />
+  <feature name="md5Hash" value="897fbbf8835064db0a423af46f5798df" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="9181" this_length="4181" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="46458" this_length="2265" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="89523" this_length="4720" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="106565" this_length="3264" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="128630" this_length="503" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="133541" this_length="505" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="139900" this_length="776" />
+</document>
+

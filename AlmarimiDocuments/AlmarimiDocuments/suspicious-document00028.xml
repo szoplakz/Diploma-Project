@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00042.txt">
+  <feature name="about" authors="Dunsany, Edward John Moreton Drax Plunkett, Baron" title="A Dreamer's Tales" lang="en" />
+  <feature name="md5Hash" value="896898ce906767f254e71438a2b20023" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="60786" this_length="4250" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="103813" this_length="758" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="132861" this_length="723" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="142012" this_length="708" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="153915" this_length="255" />
+</document>
+

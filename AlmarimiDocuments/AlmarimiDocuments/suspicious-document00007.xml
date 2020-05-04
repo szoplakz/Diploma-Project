@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03314.txt">
+  <feature name="about" authors="Livingstone, W. P." title="Mary Slessor of Calabar: Pioneer Missionary" lang="en" />
+  <feature name="md5Hash" value="a75259b651d71dc0968574d7534720de" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="11016" this_length="16581" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="126986" this_length="3046" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="145118" this_length="3311" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="175975" this_length="14985" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="305568" this_length="22598" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="501260" this_length="21926" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="648575" this_length="14968" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="676696" this_length="2215" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="694159" this_length="1669" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="702201" this_length="734" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="709246" this_length="500" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="718034" this_length="3456" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="735765" this_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="737514" this_length="505" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="740660" this_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="742050" this_length="246" />
+</document>
+
